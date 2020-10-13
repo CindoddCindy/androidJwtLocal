@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PEMESANAN</string>
+    <string name="masukan_nomor_hp">Masukkan Nomer HP</string>
+    <string name="title_buka_whatsapp">Buka Whatsapp</string>
+    <string name="masukan_nama">Nama</string>
+    <string name="Email">Email</string>
+    <string name="Nama_perusahaan">Nama Perusahaan</string>
+    <string name="Budget">Budget</string>
+    <string name="Timeline">Timeline</string>
+</resources>
